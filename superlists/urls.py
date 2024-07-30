@@ -20,4 +20,4 @@ from lists import views
 
 urlpatterns = [
     path('', views.home_page, name='home'),
-]
+] 
