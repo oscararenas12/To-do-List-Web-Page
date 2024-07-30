@@ -1,11 +1,11 @@
 from selenium import webdriver
-# from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.firefox.options import Options
 import unittest
 
 class NewVisitorTest(unittest.TestCase):
     def setUp(self):
-        # options = Options()
-        # options.set_preference("dom.max_script_run_time", 30)  # Set a timeout of 30 seconds
+        options = Options()
+        options.set_preference("dom.max_script_run_time", 30)  # Set a timeout of 30 seconds
         self.browser = webdriver.Firefox()
 
     def tearDown(self):
