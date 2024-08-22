@@ -9,7 +9,6 @@ This is a simple web page that allows users to create and manage a list. The pro
 ## Technologies Used
 
 - **HTML5**: Markup language used for structuring the web page.
-- **CSS3**: Styling used for the appearance of the web page.
 - **JavaScript**: Adds interactivity to the list (e.g., adding/removing items).
 - **Python**: Backend logic for managing the list items (if applicable).
 - **Django**: Web framework used to handle server-side logic (if applicable).
