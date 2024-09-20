@@ -1,4 +1,4 @@
-# Simple List Web Page
+# Simple To-do List Web Page
 
 This is a simple web page that allows users to create and manage a list. The project was developed as a learning exercise while following along with **Test-Driven Development with Python** by *Harry J.W. Percival* (commonly referred to as "Obey the Testing Goat").
 
